@@ -154,7 +154,7 @@
     </td>
     <td align="center" width="50%">
      <a href="https://github.com/Zionoi/FinalProjectTeam5"> <img src="https://github.com/user-attachments/assets/192cca35-6a91-4baf-977a-c7114a184d1d"></a>
-      <h3>🧩 <a href="https://github.com/Zionoi/FinalProjectTeam5">의료용 DCM 파일 이미지 및 3D뷰어 'D-VIEW'</a></h3>
+      <h3>🩺 <a href="https://github.com/Zionoi/FinalProjectTeam5">의료용 DCM 파일 이미지 및 3D뷰어 'D-VIEW'</a></h3>
       <p> 환자의 의료용 DICOM 이미지를 분석및 조작할수 있는 기능, CT사진을 3D렌더링 후 보여주는 기능 구현, 의료진을 위한 환자 상세페이지로 환자를 개별 관리 할 수 있는 웹페이지</p>
     </td>
   </tr>
