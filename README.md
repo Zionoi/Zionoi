@@ -1,1 +1,163 @@
-# kyh
+
+ 
+
+<h3> Profile </h3>
+<div>👨 김요한 | 사람을 이해하는 개발자? 음악, 체육, 그리고 IT</div>
+<div>✉️ kyh00827@naver.com</div>
+<div>🎓 백석예술대학교 졸업</div>
+<div>🏆 자바(JAVA)&클라우드(AWS) 활용 풀스택 캠프[의료영상 API연동 프로젝트]</div>div>
+<div>🎤 2024년 KOSA KDT통합프로젝트발표회 참여(팝업스토어 안내 웹사이트 개발)</div>
+
+
+
+
+---
+
+<h3>👨‍💻 Technical Training</h3>
+<h3>🚀 자바(JAVA)&클라우드(AWS) 활용 풀스택 캠프(2024.05.07 ~ 2024.11.25)</h3>
+<li>STS를 활용해 스프링 기반 웹 페이지를 구축</li>
+<li>React와 JavaScript를 활용해 동적인 화면 구성과 효율적인 상태 관리를 구현</li>
+<li>Oracle DB를 활용해 데이터 모델링 및 쿼리 최적화, 데이터 연동 기능을 구현</li>
+<li>Java와 함께 프론트엔드 및 백엔드 기술을 통합하며 풀스택 개발의 기초</li>
+<li>🏆 취업 추천서 및 모범공로상 수상(훈련기관 출석우수자)</li>
+
+
+---
+
+## 📜 자기 소개
+<details>
+<summary> 내용 보기 </summary>
+
+
+### 🎵 음악과 피트니스에서 IT까지, 새로운 도전에 대한 끊임없는 탐구  
+저는 **실용음악(건반) 전공자**로 음악 레슨, 밴드 세션, 스피닝 강사, 그리고 피트니스 FC로 근무하며 다양한 사람들과 소통하며 문제를 해결해 왔습니다.  
+이 과정에서 **커뮤니케이션 능력, 데이터 분석을 통한 의사결정, 고객 중심 사고**를 자연스럽게 익혔습니다.  
+
+피트니스 FC팀장으로 일하면서 **회원 데이터와 매출 분석의 비효율성**을 경험했고, 이를 해결할 IT 기술에 관심을 갖게 되었습니다. 특히, **고객 유입 경로 분석, 지역별 매출 비교, 홍보 효과 측정**과 같은 데이터를 활용한 의사결정의 필요성을 절감하며, 직접 해결해 보고 싶다는 열정이 생겼습니다.  
+
+---
+
+### 💡 문제 해결 능력과 빠른 학습력, IT로 이어진 도전  
+비전공자로서 IT를 처음 접했지만, 새로운 분야에 대한 도전을 두려워하지 않았습니다.  
+독학으로 **Java 기본 문법과 객체지향 개념**을 익히고, 간단한 프로그램을 만들면서 개발의 재미와 가능성을 느꼈습니다.  
+이후 **풀스택 개발자 과정**에 참여하여 **Java, Spring Boot, React, MyBatis, OracleDB, AWS** 등 다양한 기술을 습득하며 실무 프로젝트를 경험했습니다.  
+
+---
+
+### 🚀 실무 프로젝트 경험과 강점  
+#### ✅ HomeTree 미니홈페이지  
+- 회원제 기반의 소규모 커뮤니티 웹 서비스 개발  
+- **JWT 인증을 통한 로그인 유지, 방문자 수 카운트, 게시판 사진 업로드, 다이어리 작성 기능(FullCalendar 적용)**  
+
+#### ✅ D-VIEW DICOM 이미지 뷰어  
+- 의료용 DICOM 데이터를 시각화하는 3D CT 이미지 뷰어 개발  
+- **VTK.js, Cornerstone.js를 활용한 CT 이미지 3D 렌더링 및 데이터 최적화**  
+
+이 과정에서 IT 지식뿐만 아니라, **팀워크, 문제 해결력, 사용자 경험을 고려한 설계**의 중요성을 깊이 이해하게 되었습니다.  
+
+---
+
+### 🎯 커뮤니케이션과 리더십, 개발자로서의 차별화된 강점  
+✔ **수업·상담 경험**을 통해 다양한 고객과 원활히 소통하는 능력을 길렀습니다.  
+✔ **데이터 기반 사고**를 바탕으로 고객 행동 분석과 서비스 개선 방향을 고민하는 습관이 있습니다.  
+✔ **리더십과 팀워크**를 발휘하여 프로젝트 팀원들과 원활한 협업을 이끌어 왔습니다.  
+
+이러한 경험들은 IT 개발자로서 단순히 **코드를 짜는 것**이 아니라, **사용자의 문제를 해결하고 가치를 제공하는 개발**을 하는 데 큰 강점이 될 것입니다.  
+
+---
+
+### 💪 개발자로서의 목표와 다짐  
+ 다양한 경험을 통해 길러온 문제 해결 능력과 빠른 적응력을 살려, IT 분야에서도 **도전적인 문제를 해결하고, 실용적인 서비스를 만드는 개발자**가 되겠습니다.  
+팀원들과 적극적으로 소통하며 협업하는 **성장하는 개발자**로, 회사와 함께 발전해 나가고 싶습니다.
+
+🚀 **IT 분야에서도 제 강점을 살려 차별화된 개발자가 되겠습니다.**  
+
+
+</details>
+---
+  <div align="center">
+    <h2>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> 
+      STACKS
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" />
+    </h2>
+</div>
+
+
+
+  <!-- Server -->
+  <h3>🖥️ Backend</h3>
+  <div>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+    <img src="https://img.shields.io/badge/thymeleaf-005F9E?style=for-the-badge&logo=thymeleaf&logoColor=white">
+    <img src="https://img.shields.io/badge/jsp-FFAA33?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+  </div>
+
+  <!-- Frontend -->
+  <h3>🎨 Frontend</h3>
+  <div>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+
+
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  </div>
+    <!-- Database -->
+ <h3>
+    <h3>🗂️ Database</h3>
+    <div>
+      <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    </div>
+  </h3>
+  
+<!-- API -->
+  <h3>🌐 APIs</h3>
+  <div>
+    <img src="https://img.shields.io/badge/naver maps-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+    <img src="https://img.shields.io/badge/kakao address API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
+    <img src="https://img.shields.io/badge/hugging face-FF7B00?style=for-the-badge&logo=huggingface&logoColor=white">
+  </div>
+  
+
+  <h3>🔧 Tools</h3>
+  <div>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  </div>
+
+
+
+---
+
+## 💻 팀 프로젝트
+<table>
+  <tr>
+    <td align="center" width="50%">
+     <a href="href="https://github.com/Zionoi/ProjectTeam5"> <img src="https://github.com/user-attachments/assets/71657792-6101-43ec-afe7-4a871c46a5a0"></a>
+      <h3>🏠 <a href="https://github.com/Zionoi/ProjectTeam5">미니홈페이지 '홈트리'</a></h3>
+      <p>넓은 소셜 미디어가 아닌 소수의 사람들과 소통할 수 있는 작은 커뮤니티를 지향한 일기, mp3, 쪽지발송, 게시판, 산책로 검색 및 투표, 맛집검색 등 다양한 콘텐츠를 포함하고 있는 미니홈페이지
+  </p>
+    </td>
+    <td align="center" width="50%">
+     <a href="https://github.com/Zionoi/FinalProjectTeam5"> <img src="https://github.com/user-attachments/assets/192cca35-6a91-4baf-977a-c7114a184d1d"></a>
+      <h3>🧩 <a href="https://github.com/hyunminhwan/project">의료용 DCM 파일 이미지 및 3D뷰어 'D-VIEW'</a></h3>
+      <p> 환자의 의료용 DICOM 이미지를 분석및 조작할수 있는 기능, CT사진을 3D렌더링 후 보여주는 기능 구현, 의료진을 위한 환자 상세페이지로 환자를 개별 관리 할 수 있는 웹페이지</p>
+    </td>
+  </tr>
+</table>
+
+
