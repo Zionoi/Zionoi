@@ -147,14 +147,14 @@
 <table>
   <tr>
     <td align="center" width="50%">
-     <a href="href="https://github.com/Zionoi/ProjectTeam5"> <img src="https://github.com/user-attachments/assets/71657792-6101-43ec-afe7-4a871c46a5a0"></a>
+     <a href="https://github.com/Zionoi/ProjectTeam5"> <img src="https://github.com/user-attachments/assets/71657792-6101-43ec-afe7-4a871c46a5a0"></a>
       <h3>🏠 <a href="https://github.com/Zionoi/ProjectTeam5">미니홈페이지 '홈트리'</a></h3>
       <p>넓은 소셜 미디어가 아닌 소수의 사람들과 소통할 수 있는 작은 커뮤니티를 지향한 일기, mp3, 쪽지발송, 게시판, 산책로 검색 및 투표, 맛집검색 등 다양한 콘텐츠를 포함하고 있는 미니홈페이지
   </p>
     </td>
     <td align="center" width="50%">
      <a href="https://github.com/Zionoi/FinalProjectTeam5"> <img src="https://github.com/user-attachments/assets/192cca35-6a91-4baf-977a-c7114a184d1d"></a>
-      <h3>🧩 <a href="https://github.com/hyunminhwan/project">의료용 DCM 파일 이미지 및 3D뷰어 'D-VIEW'</a></h3>
+      <h3>🧩 <a href="https://github.com/Zionoi/FinalProjectTeam5">의료용 DCM 파일 이미지 및 3D뷰어 'D-VIEW'</a></h3>
       <p> 환자의 의료용 DICOM 이미지를 분석및 조작할수 있는 기능, CT사진을 3D렌더링 후 보여주는 기능 구현, 의료진을 위한 환자 상세페이지로 환자를 개별 관리 할 수 있는 웹페이지</p>
     </td>
   </tr>
