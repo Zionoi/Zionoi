@@ -87,9 +87,9 @@
 
 🚀 **IT 분야에서도 제 강점을 살려 차별화된 개발자가 되겠습니다.**  
 
-
-</details>
 ---
+</details>
+
   <div>
     <h2>
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> 
