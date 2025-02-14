@@ -1,7 +1,7 @@
 
  
 
-<h3> Profile </h3>
+## Profile
 <div>👨 김요한 | 사람을 이해하는 개발자? 음악, 체육, 그리고 IT</div>
 <div>✉️ kyh00827@naver.com</div>
 <div>🎓 백석예술대학교 졸업</div>
@@ -13,14 +13,29 @@
 
 ---
 
-<h3>👨‍💻 Technical Training</h3>
-<h3>🚀 자바(JAVA)&클라우드(AWS) 활용 풀스택 캠프(2024.05.07 ~ 2024.11.25)</h3>
-<li>STS를 활용해 스프링 기반 웹 페이지를 구축</li>
-<li>React와 JavaScript를 활용해 동적인 화면 구성과 효율적인 상태 관리를 구현</li>
-<li>Oracle DB를 활용해 데이터 모델링 및 쿼리 최적화, 데이터 연동 기능을 구현</li>
-<li>Java와 함께 프론트엔드 및 백엔드 기술을 통합하며 풀스택 개발의 기초</li>
-<li>🏆 취업 추천서 및 모범공로상 수상(훈련기관 출석우수자)</li>
+## 👨‍💻 Technical Training  
 
+### 🚀 Java & Cloud 기반 풀스택 개발 캠프 *(2024.05.07 ~ 2024.11.25)*  
+
+#### 🔹 Spring 기반 웹 개발 및 AWS 배포  
+- **STS**를 활용한 **Spring MVC, Spring Boot 프로젝트 구축**  
+- **AWS EC2, RDS**를 활용한 **배포 및 클라우드 환경 구성 경험**  
+
+#### 🔹 프론트엔드 & 백엔드 연동 및 동적 화면 구성  
+- **React 및 JSP, Thymeleaf**를 활용한 **동적 UI 구현 및 상태 관리 최적화**  
+- **Axios, Fetch API**를 통한 **백엔드 연동 및 비동기 데이터 처리**  
+
+#### 🔹 데이터베이스 설계 및 성능 최적화  
+- **JPA, MyBatis, Oracle DB**를 활용한 **데이터 모델링 및 효율적인 쿼리 작성**  
+- 대량 데이터 처리 및 성능 최적화 경험  
+
+#### 🔹 풀스택 개발 경험  
+- **프론트엔드(React, JSP, Thymeleaf)와 백엔드(Spring, Java) 통합 개발**  
+- **RESTful API 설계 및 구현**을 통해 **서버-클라이언트 간 데이터 흐름 최적화**  
+
+#### 🏆 우수 성과 인정  
+- **취업 추천서 및 모범공로상 수상**  
+- **훈련기관 출석 우수자 선정**
 
 ---
 
@@ -75,7 +90,7 @@
 
 </details>
 ---
-  <div align="center">
+  <div>
     <h2>
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> 
       STACKS
