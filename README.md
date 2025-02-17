@@ -5,7 +5,7 @@
 <div>👨 김요한 | 사람을 이해하는 개발자? 음악, 체육, 그리고 IT</div>
 <div>✉️ kyh00827@naver.com</div>
 <div>🎓 백석예술대학교 졸업</div>
-<div>🏆 자바(JAVA)&클라우드(AWS) 활용 풀스택 캠프[의료영상 API연동 프로젝트]</div>div>
+<div>🏆 자바(JAVA)&클라우드(AWS) 활용 풀스택 캠프[의료영상 API연동 프로젝트]</div>
 <div>🎤 2024년 KOSA KDT통합프로젝트발표회 참여(팝업스토어 안내 웹사이트 개발)</div>
 
 
