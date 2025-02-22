@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Technical Training  
 
-### 🚀 Java & Cloud 기반 풀스택 개발 캠프 *(2024.05.07 ~ 2024.11.25)*  
+### 🚀 Java & React & Cloud 기반 풀스택 개발 캠프 *(2024.05.07 ~ 2024.11.25)*  
 
 #### 🔹 Spring 기반 웹 개발 및 AWS 배포  
 - **STS**를 활용한 **Spring MVC, Spring Boot 프로젝트 구축**  
