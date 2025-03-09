@@ -156,7 +156,17 @@
   </div>
 
 
-
+---
+## 💻 개인 프로젝트
+<table>
+  <tr>
+    <td align="center" width="50%">
+     <a href="https://github.com/Zionoi/MemberMap"></a>
+      <h3>🗺️ <a href="https://github.com/Zionoi/MemberMap">회원관리 웹페이지 'MemberMap'</a></h3>
+      <p>사용자가 본인 회원들의 회원정보를 관리하고 지역별 유입비율을 지도에 시각적으로 보여줄 수 있는 웹 서비스
+  </p>
+  </tr>
+</table>
 ---
 
 ## 💻 팀 프로젝트
