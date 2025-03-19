@@ -1,7 +1,7 @@
 
  
 
-## Profile
+## About Me
 <div>👨 김요한 | 사람을 이해하는 개발자. 음악, 체육, 그리고 IT</div>
 <div>✉️ kyh00827@naver.com</div>
 <div>🎓 백석예술대학교 졸업</div>
