@@ -165,7 +165,7 @@
     <td align="center" width="50%">
      <a href="https://github.com/Zionoi/MemberMap"> <img src="https://github.com/user-attachments/assets/647ac244-fdc9-4b6e-9c95-fd73461c72d5" width="50%" height="50%"></a>
       <h3>🗺️ <a href="https://github.com/Zionoi/MemberMap">회원관리 웹페이지 'MemberMap'</a></h3>
-      <p>사용자가 본인 회원들의 회원정보를 관리하고 지역별 유입비율을 지도에 시각적으로 보여줄 수 있는 웹 서비스
+      <p>사용자가 본인 회원들의 회원정보를 관리하고 지역별 유입비율을 지도에 시각적으로 보여줄 수 있는 React + Spring Boot 기반 웹 서비스
   </p>
   </tr>
 </table>
