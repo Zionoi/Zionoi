@@ -41,7 +41,7 @@
 
 ## 📜 자기 소개
 <details>
-<summary> 내용 보기 </summary>
+<summary> 내용보기 </summary>
 
 
 ### 🎵 음악과 피트니스에서 IT까지, 새로운 도전에 대한 끊임없는 탐구  
